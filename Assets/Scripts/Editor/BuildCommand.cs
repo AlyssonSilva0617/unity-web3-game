@@ -209,7 +209,7 @@ static class BuildCommand
             }
             else
             {
-                Console.WriteLine($":: {ANDROID_APP_BUNDLE} env var detected but the value \"{value}\" is not a boolean.");
+                Console.WriteLine($":: {ANDROID_APP_BUNDLE} env var detected but the values \"{value}\" is not a boolean.");
             }
 #else
             Console.WriteLine($":: {ANDROID_APP_BUNDLE} env var detected but doesn't work with under Unity version than 2018.5");
