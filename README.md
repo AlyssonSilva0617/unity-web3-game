@@ -31,7 +31,7 @@ The 1.2.0 release represents a major reworking of the project and includes names
 - [Unity Hub](https://unity3d.com/get-unity/download)
 - [Visual Studio](https://visualstudio.microsoft.com/) or other Unity supported development platforms.
 
-1. Using Unity 2020.4 or higher, create a new game project.
+1. Using Unity 2020.3 or higher, create a new game project.
 2. Download and install the latest package.
 ![Add Package](gifs/moralis_package_setup.gif)
 3. Enter your Moralis Server information in the Setup Wizard.
